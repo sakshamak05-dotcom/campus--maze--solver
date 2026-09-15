@@ -27,7 +27,7 @@ S = Hostel (Start)
 G = AI Lab (Goal)
 # = Buildings (Obstacles)
 * = The path discovered by the AI!
-Created by: Dhairya Jaiswal (25BAI10441)
+Created by: Saksham (25BAI10654)
 Course: B.Tech in Artificial Intelligence & Machine Learning
 import collections
 
